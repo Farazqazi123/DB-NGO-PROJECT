@@ -1,0 +1,11 @@
+category_id,category_name,description
+1,Cooked,Fully prepared hot or cold meals
+2,Raw,Unprocessed fresh produce and meat
+3,Bakery,"Breads, pastries, and baked goods"
+4,Dairy,"Milk, cheese, yogurt, and eggs"
+5,Beverages,"Juices, water, and non-alcoholic drinks"
+6,Canned,Tinned and preserved food items
+7,Frozen,Frozen meals and ingredients
+8,Snacks,"Packaged chips, biscuits, and sweets"
+9,Grains,"Rice, flour, lentils, and pulses"
+10,Condiments,"Sauces, spices, and dressings"

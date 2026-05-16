@@ -1,0 +1,66 @@
+claim_id,food_id,ngo_id,claim_status,claimed_at,notes
+1,1,41,completed,2025-11-11 01:38:13.010099,
+2,2,44,cancelled,2025-10-23 18:50:07.402914,Cold storage needed.
+3,3,49,completed,2026-03-27 09:16:33.617095,
+4,8,42,cancelled,2026-03-23 09:28:54.120228,Please pack separately.
+5,10,50,completed,2026-02-23 21:13:46.976210,
+6,11,49,completed,2026-03-11 21:11:10.297532,
+7,12,48,completed,2025-11-13 13:07:14.204943,
+8,13,57,completed,2025-10-23 02:37:03.549024,
+9,14,49,completed,2026-03-03 16:42:13.936944,
+10,15,45,completed,2025-12-16 13:43:42.947175,NGO volunteer will collect.
+11,17,41,completed,2026-01-06 12:27:19.855299,Cold storage needed.
+12,18,40,completed,2025-11-01 21:27:51.901747,NGO volunteer will collect.
+13,19,37,completed,2026-04-25 02:55:30.640363,Cold storage needed.
+14,22,43,completed,2026-04-13 13:47:36.723960,NGO volunteer will collect.
+15,28,35,completed,2026-03-20 19:47:01.548644,Cold storage needed.
+16,29,54,cancelled,2025-12-08 19:06:42.232965,NGO volunteer will collect.
+17,30,49,completed,2026-01-16 03:39:01.942612,Please pack separately.
+18,32,42,cancelled,2026-04-07 03:53:39.767446,
+19,35,49,completed,2026-04-15 00:02:16.142705,Please pack separately.
+20,36,38,cancelled,2025-11-16 19:00:57.135752,Will arrive on time.
+21,38,41,completed,2026-05-10 19:34:50.575317,Large vehicle required.
+22,41,60,completed,2025-12-07 12:21:30.932612,
+23,43,43,completed,2025-12-29 12:58:02.034438,Please pack separately.
+24,45,53,cancelled,2025-10-12 21:17:27.615579,Large vehicle required.
+25,46,54,completed,2026-04-20 12:42:58.754706,Cold storage needed.
+26,47,41,confirmed,2025-10-30 13:14:27.290516,Please pack separately.
+27,49,47,completed,2025-12-29 09:00:38.512106,NGO volunteer will collect.
+28,50,35,completed,2026-01-18 12:48:38.186631,
+29,51,36,cancelled,2026-03-29 06:48:16.186477,Large vehicle required.
+30,52,47,completed,2026-02-27 21:49:18.718104,Cold storage needed.
+31,55,42,confirmed,2025-11-01 05:42:12.688018,NGO volunteer will collect.
+32,57,53,cancelled,2026-05-02 19:52:56.644289,
+33,58,37,completed,2026-04-25 20:24:49.335204,
+34,59,42,completed,2026-02-12 18:17:30.461359,Will arrive on time.
+35,60,53,completed,2026-02-22 04:18:26.067803,NGO volunteer will collect.
+36,61,34,cancelled,2025-10-14 15:31:18.145982,Please pack separately.
+37,62,60,completed,2026-04-20 22:52:10.322437,Cold storage needed.
+38,63,49,completed,2026-01-15 15:22:12.550738,NGO volunteer will collect.
+39,64,39,completed,2026-02-23 09:41:49.390255,
+40,65,36,completed,2025-12-02 17:54:34.714155,
+41,66,56,completed,2026-03-02 10:01:53.261223,
+42,67,43,cancelled,2026-01-27 04:26:20.058745,Please pack separately.
+43,68,48,completed,2025-10-30 22:29:09.130565,Will arrive on time.
+44,69,60,cancelled,2026-02-22 19:16:34.519190,Please pack separately.
+45,70,56,completed,2025-12-15 14:58:21.704999,Large vehicle required.
+46,71,50,completed,2026-03-14 22:15:01.868809,
+47,72,60,completed,2025-10-26 13:52:31.860191,Cold storage needed.
+48,74,43,completed,2025-12-22 02:36:51.050580,Please pack separately.
+49,75,54,completed,2026-04-04 20:06:01.007611,NGO volunteer will collect.
+50,77,51,completed,2025-11-04 08:10:41.243905,Large vehicle required.
+51,80,37,completed,2025-12-01 19:01:43.934757,Cold storage needed.
+52,82,49,completed,2026-02-25 14:30:05.402786,NGO volunteer will collect.
+53,83,47,completed,2026-01-16 13:56:10.421850,Cold storage needed.
+54,84,46,completed,2026-03-25 21:29:39.058681,Cold storage needed.
+55,85,36,completed,2026-05-05 04:37:06.013250,NGO volunteer will collect.
+56,76,48,pending,2025-11-27 05:09:08.265684,
+57,4,45,pending,2025-10-27 09:28:15.637481,
+58,24,60,pending,2026-02-21 12:47:47.483571,
+59,54,48,pending,2026-03-12 02:42:14.546068,
+60,78,57,pending,2026-03-23 21:05:50.414533,
+61,40,46,pending,2026-02-06 00:39:40.808603,
+62,56,35,pending,2025-12-28 00:19:22.143597,
+63,48,57,pending,2025-09-25 06:48:05.754848,
+64,34,56,pending,2025-09-21 07:09:48.555754,
+65,9,49,pending,2025-12-23 04:24:30.183125,
